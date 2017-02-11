@@ -1,0 +1,243 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "niroomandtools",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#c0a375",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/photo-2017-02-05-19-58-23-128x96.png",
+    "noImageResize": "",
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 15,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "10",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "ابزار نیرومند",
+                "showText": true,
+                "text": "تامین ابزار های صنعتی و مکانیکی و پنوماتیک و تامین قطعات یدکی&nbsp;<br>تیغ اره های دیسکی - انواع الکترود - لوازم جوش و برش&nbsp;<br><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">niroomandtools.com</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "ابزار نیرومند",
+                "showText": true,
+                "text": "توانایی تجهیز کارگاه پروژه های عظیم داخل و خارج کشوری<br>آبی - خاکی - پتروشیمی - پالایشگاه نفت و گاز &nbsp;<br>&nbsp;<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1428.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "ابزار نیرومند",
+                "showText": true,
+                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">پروژه هایی که فروشگاه ما تجهیز کارگاه کرده است</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">شیر کوه - سیمره - نیروگاه آزاد - بیدبلند 2 - مولد برق یزد - سنگاب&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;اسنگ توده تاجیکستان - لوارک - مسجد سلیمان - سد شهید رجائی - سیاه بیشه</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;داریان - سد کارون 4 - مترو خط 7 و خط 2 تهران - گتوند -&nbsp;</span><br>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">niroomandtools.com</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "ابزار نیرومند",
+                "showText": true,
+                "text": "متقاضیان موسسات شرکت ها کارخانه جات می توانند درخواست خود را از طریق<br>ایمیل ، تماس ، فکس ارسال نمایند تا در اسرع وقت نسبت به ارائه قیمت شفاهی<br>یا کتبی اقدام شود<br>021-66750337 &nbsp; &nbsp; &nbsp; 021-66750338 &nbsp; &nbsp; &nbsp; &nbsp; <br>&nbsp; &nbsp; niroomandreza46@yahoo.com &nbsp; &nbsp; &nbsp; &nbsp;<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-0",
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "SPAN": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-265x176.jpg",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br><br><br>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "021-66750337<br>021-66750338",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "تهران خیابان امام خمینی نرسیده به ترمینال فیاض بخش کوچه جمشیدخواه&nbsp;<br>پاساژ ابزار تیموریان<br>طبقه اول پلاک 123",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "niroomandreza46@yahoo,com",
+          "title1": "",
+          "text5": "",
+          "text6": "<strong>Contacts</strong><br>Email: niroomandreza46@yahoo.com<br>Phone: 021-66750337<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 021-66750338&nbsp;<br>Fax: 021-66750339<br><br><br><strong>Address</strong><br>تهران خیابان امام خمینی نرسیده به ترمینال فیاض بخش کوچه جمشیدخواه پاساژ ابزار تیموریان طبقه اول&nbsp;<br>پلاک 123",
+          "form": {
+            "title": "MESSAGE",
+            "action": "niroomandreza46@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        }
+      ]
+    }
+  }
+}
