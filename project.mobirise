@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/photo-2017-02-05-19-58-23-128x96.png",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 17,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -59,6 +59,14 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "SPAN": {
+              "text-align": "right"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -128,15 +136,7 @@
             "showBullets": true
           },
           "_anchor": "slider-0",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            },
-            "SPAN": {
-              "text-align": "right"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
